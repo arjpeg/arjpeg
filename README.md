@@ -1,4 +1,4 @@
-# arjpeg
+# Aditya Rao Udupi
 
 I'm a systems-focused developer interested in programming languages, compilers, and graphics. Most of my work is in Rust.
 
